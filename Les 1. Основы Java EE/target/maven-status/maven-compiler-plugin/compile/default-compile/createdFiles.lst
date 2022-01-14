@@ -1,4 +1,6 @@
 ru\geekbrains\servlet\BasicServlet.class
+ru\geekbrains\servlet\ProductServlet.class
 ru\geekbrains\model\Cat.class
 ru\geekbrains\servlet\TestHTTPServlet.class
 ru\geekbrains\servlet\CatServlet.class
+ru\geekbrains\model\Product.class
