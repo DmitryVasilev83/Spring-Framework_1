@@ -1,0 +1,16 @@
+ru\geekbrains\LikeMessageProvider.class
+ru\geekbrains\MessageProvider.class
+ru\geekbrains\service\MessageService.class
+ru\geekbrains\ConsoleMessageRender.class
+ru\geekbrains\InjectFoodStuffAnnotationBeanPostProcessor.class
+ru\geekbrains\config\WebConfig.class
+ru\geekbrains\WantMessageProvider.class
+ru\geekbrains\controller\MessageController.class
+ru\geekbrains\entity\Message$MessageBuilder.class
+ru\geekbrains\repository\MessageRepository.class
+ru\geekbrains\entity\Message.class
+ru\geekbrains\config\HelloConfiguration.class
+ru\geekbrains\HelloSpring.class
+ru\geekbrains\InjectFoodStuff.class
+ru\geekbrains\HelloSpringMessageProvider.class
+ru\geekbrains\MessageRender.class
